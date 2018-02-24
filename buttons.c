@@ -1,5 +1,5 @@
 /*
-test10
+test whindows
 */
 #include "buttons.h"
 
